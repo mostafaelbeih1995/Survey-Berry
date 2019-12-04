@@ -1,0 +1,42 @@
+/*//css classes style*/
+.questions-containerCS{
+ 
+}
+
+/*///////////////////////////////////*/
+#questions-container{
+ 
+}
+.analysis-title h1{
+  text-align: center;
+}
+#analysis-survey-title{
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+#question-title{
+	width: 350px;
+	float:left;
+	font-size: 18px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.canvasCharts{
+overflow: hidden;
+margin-left: 5px;
+margin-top: 10px;
+width:50%;
+height: 30%;
+}
+
+#question-div{
+  margin-top:20px;
+  background-color: white;
+  color: white;
+  background-color: #581845;
+  border-radius: 10px;
+  border: solid black;
+  padding-bottom: 20px;
+}
